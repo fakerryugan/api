@@ -1,7 +1,7 @@
 <?php
 
 // URL API tujuan (dengan ID data yang ingin dihapus)
-$url = 'https://jsonplaceholder.typicode.com/posts/1';
+$url = 'https://66f16ce8415379191550da12.mockapi.io/user/3';
 
 // Inisialisasi cURL
 $ch = curl_init();
