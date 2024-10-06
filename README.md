@@ -1,5 +1,5 @@
 ## tugas pratikum
-1. Konsumsi Data dengan GET Request
+## 1. Konsumsi Data dengan GET Request
 - Gunakan kode di atas untuk mengambil daftar post dari https://jsonplaceholder.typicode.com/posts.
 - Tampilkan 5 data pertama dalam bentuk array PHP.
 ## jawab
@@ -8,7 +8,7 @@ untuk mengambil 5 data pertama dari data api saya menggunakan fungsi php yang ar
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/47c7a3db-5a3a-48bc-9eed-107bfcdc093b">
 
 
-2. Mengirim Data dengan POST Request
+## 2. Mengirim Data dengan POST Request
 - Gunakan kode POST di atas untuk mengirim data baru ke API yang sama.
 - Ganti isi body dengan data lain yang relevan (misalnya judul dan konten berbeda).
 ## jawab
@@ -18,7 +18,7 @@ untuk mengambil 5 data pertama dari data api saya menggunakan fungsi php yang ar
 <img width="399" alt="image" src="https://github.com/user-attachments/assets/a68066e0-1d7f-4529-8874-adb26f3741fc">
 
 
-3. Menghapus Data dengan DELETE Request
+## 3. Menghapus Data dengan DELETE Request
 - Gunakan kode DELETE untuk menghapus salah satu post dari API.
 - Tampilkan respon yang dikembalikan dari API setelah permintaan DELETE berhasil.
 ## jawab
@@ -32,7 +32,7 @@ di get.php
 ## kode
 <img width="407" alt="image" src="https://github.com/user-attachments/assets/1c9bb340-289f-481a-86a9-519a1c628545">
 
-4. Analisis Metode HTTP
+## 4. Analisis Metode HTTP
 - Jelaskan perbedaan antara metode GET, POST, dan DELETE.
 - Diskusikan skenario kapan harus menggunakan masing-masing metode dalam aplikasi nyata.
 ##
